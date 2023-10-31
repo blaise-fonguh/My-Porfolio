@@ -5,6 +5,7 @@
   "source": "src/index.html",
   "homepage": "https://blaise-fonguh.github.io/My-Porfolio",
   "scripts": {
+    "type": "module",
     "start": "parcel",
     "build": "parcel build",
     "build-gh": "parcel build --public-url 'https://blaisefonguh.github.io/My-Porfolio'",
