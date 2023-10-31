@@ -24,7 +24,7 @@ const imageAltText = "data analysis background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Data Science student studying at Kwame Nkrumah University of Science and Technology. I enjoy analysing data and helping businesses thrive in very creative ways.";
+  "I'm a Data Science student studying at Kwame Nkrumah University of Science and Technology. I enjoy analyzing data and helping businesses thrive in very creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
