@@ -31,29 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "A diabetes Prediction System 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A diabetes Prediction System which predicts the likelihood of a person having diabetes",
+    url: "https://github.com/blaise-fonguh/Diabetes-Prediction-Using-MachineLearning",
   },
   {
-    title: "Web Development for Beginners",
+    title: "A Movie_Webapp",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Designed and built a modern movie web application using Html/CSS and JS that searches for movie titles using the Open Movie Database API, improving search performance by over 60%.",
+    url: "https://github.com/blaise-fonguh/Movie_webapp",
   },
   {
-    title: "My Resume Site",
+    title: "A Password generator App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "•	Implemented a Password Generator Application using JavaScript, Html/CSS to meet specific security requirements of the user ",
+    url: "https://github.com/blaise-fonguh/Password-generator_App",
   },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+  
 ];
 
 const Portfolio = () => {
