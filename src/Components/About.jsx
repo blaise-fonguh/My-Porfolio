@@ -33,7 +33,7 @@ const description =
 const skillsList = [
   "Statistical Analysis",
   "Data Visualization",
-  "Programming with Python and SQL",
+  "Programming with Python,R and SQL",
   "Excel Skills",
   "DataBase Management",
   "Machine Learning",
