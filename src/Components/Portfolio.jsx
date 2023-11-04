@@ -31,7 +31,7 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "A diabetes Prediction System 🎉",
+    title: "A diabetes Prediction System ",
     description:
       "A diabetes Prediction System which predicts the likelihood of a person having diabetes",
     url: "https://github.com/blaise-fonguh/Diabetes-Prediction-Using-MachineLearning",
