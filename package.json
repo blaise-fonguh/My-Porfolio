@@ -1,4 +1,5 @@
 {
+  "proxy": "http://localhost:5000",
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
